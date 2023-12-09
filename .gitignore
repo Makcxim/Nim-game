@@ -1,0 +1,10 @@
+.mypy_cache/
+__pycache__/
+
+.venv/
+.idea/
+
+venv/
+
+data/settings.json
+resources/
